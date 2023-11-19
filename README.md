@@ -3,8 +3,10 @@
   <h3>TUA'da görevli bir grup personel uzayın derinliklerine keşif yolculuğuna çıkmıştır.</h3>
 </div>
 
-
-Hikaye: Kaptan Ahmet TUA ve ekibi, Türkiye Uzay Ajansı'nın (TUA) uzay çöplerini temizleme projesini başarıyla tamamladıktan sonra, Uzay Madenciliği görevi için dünya dışına yolculuğa çıkarlar. Ancak, uzayın derinliklerinde, bilinmeyen bir düşmanın saldırısına uğrarlar. Savaş sırasında telsiz donanımlarını kaybeden ekip, uzayda yalnız kalır.
+<div align="center">
+  <h1 align="center">Hikaye</h1>
+  <h3>
+Kaptan Ahmet TUA ve ekibi, Türkiye Uzay Ajansı'nın (TUA) uzay çöplerini temizleme projesini başarıyla tamamladıktan sonra, Uzay Madenciliği görevi için dünya dışına yolculuğa çıkarlar. Ancak, uzayın derinliklerinde, bilinmeyen bir düşmanın saldırısına uğrarlar. Savaş sırasında telsiz donanımlarını kaybeden ekip, uzayda yalnız kalır.
 
 Kaptan Ahmet, ekip arkadaşlarıyla birlikte, ilk saldırıyı atlatmanın verdiği zaferle dolu bir özgüvenle, dünya üzerindeki uzay çöplerini toplamak için tasarlanmış olan uzay mekiğini modifiye etmeye karar verir. Yolda çeşitli saldırılarla karşılaşarak, ekip hem mücadele eder hem de mekiği iyileştirmek için çeşitli uzay çöplerini toplar.
 
@@ -17,6 +19,8 @@ Sonunda, Neptün'e ulaştıklarında, uzay çöplerinin sayısı azalır ve ula�
 Kaptan Ahmet ve ekibi, geliştirdikleri savunma sistemleri, güçlendirilmiş uzay gemileri ve akıllı robot yardımcılarıyla uzaylılara karşı büyük bir savaşa girerler. Zorlu mücadelelerin ardından, galaksiyi tehdit eden uzaylıları mağlup ederler ve galaksinin huzurunu sağlarlar.
 
 Oyunun ikinci aşamasında, Kaptan Ahmet ve ekibi galaksi haritasında gezegenler arasında gezinir. Henüz keşfedilmemiş bölgelere ilerleyerek, yeni maceralara atılırlar. Ancak, zamanla bazı gezegenleri kaybederler, bu yüzden ekip hızlı ve stratejik olmalıdır. Yeni galaksilere keşfe çıkarak, TUA'nın uzaydaki hakimiyetini kurmaları için mücadele ederler.
+</h3>
+</div>
 
 ## Features
 

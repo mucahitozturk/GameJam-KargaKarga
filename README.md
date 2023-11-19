@@ -4,11 +4,8 @@
 </div>
 
 <div align="center">
-  <h1 align="center">Hikaye</h1>
-Kaptan Ahmet TUA ve ekibi, Türkiye Uzay Ajansı'nın (TUA) uzay çöplerini temizleme projesini başarıyla tamamladıktan sonra, Uzay Madenciliği görevi için dünya dışına yolculuğa çıkarlar. Ancak, uzayın derinliklerinde, bilinmeyen bir düşmanın saldırısına uğrarlar. Savaş sırasında telsiz donanımlarını kaybeden ekip, uzayda yalnız kalır.
-
-
-Kaptan Ahmet, ekip arkadaşlarıyla birlikte, ilk saldırıyı atlatmanın verdiği zaferle dolu bir özgüvenle, dünya üzerindeki uzay çöplerini toplamak için tasarlanmış olan uzay mekiğini modifiye etmeye karar verir. Yolda çeşitli saldırılarla karşılaşarak, ekip hem mücadele eder hem de mekiği iyileştirmek için çeşitli uzay çöplerini toplar.
+  <h1 align="center">Hikaye - TR </h1>
+Kaptan Ahmet TUA ve ekibi, Türkiye Uzay Ajansı'nın (TUA) uzay çöplerini temizleme projesini başarıyla tamamladıktan sonra, Uzay Madenciliği görevi için dünya dışına yolculuğa çıkarlar. Ancak, uzayın derinliklerinde, bilinmeyen bir düşmanın saldırısına uğrarlar. Savaş sırasında telsiz donanımlarını kaybeden ekip, uzayda yalnız kalır. Kaptan Ahmet, ekip arkadaşlarıyla birlikte, ilk saldırıyı atlatmanın verdiği zaferle dolu bir özgüvenle, dünya üzerindeki uzay çöplerini toplamak için tasarlanmış olan uzay mekiğini modifiye etmeye karar verir. Yolda çeşitli saldırılarla karşılaşarak, ekip hem mücadele eder hem de mekiği iyileştirmek için çeşitli uzay çöplerini toplar.
 
 Yolculukları sırasında, kayıp uzay araçlarına ve ekiplere rastlarlar. Her uğradıkları gezegende, maden çıkartılabilir kaynakları araştırır ve ekip üyelerinden oluşan bir maden ekibi bırakarak kaynakları toplamaya başlarlar. Toplanan kaynaklar, uzay gemisinin özelliklerini ve kapasitesini artırmak için kullanılır.
 
@@ -21,11 +18,27 @@ Kaptan Ahmet ve ekibi, geliştirdikleri savunma sistemleri, güçlendirilmiş uz
 Oyunun ikinci aşamasında, Kaptan Ahmet ve ekibi galaksi haritasında gezegenler arasında gezinir. Henüz keşfedilmemiş bölgelere ilerleyerek, yeni maceralara atılırlar. Ancak, zamanla bazı gezegenleri kaybederler, bu yüzden ekip hızlı ve stratejik olmalıdır. Yeni galaksilere keşfe çıkarak, TUA'nın uzaydaki hakimiyetini kurmaları için mücadele ederler.
 </div>
 
+<div align="center">
+  <h1 align="center">Story - EN</h1>
+  Captain Ahmet TUA and his team embark on a journey beyond Earth for the Space Mining mission after successfully completing the Turkey Space Agency's (TUA) space debris cleanup project. However, in the depths of space, they come under attack by an unknown enemy. During the battle, the team loses their communication equipment and finds themselves alone in space. Captain Ahmet, filled with the confidence of overcoming the initial attack with his team, decides to modify the space shuttle designed to collect space debris on Earth. Facing various attacks along the way, the team not only fights but also collects various space debris to improve the shuttle.
+
+  Throughout their journey, they encounter lost space vehicles and teams. On each planet they visit, they research mineable resources and start collecting them by leaving a mining team consisting of team members. The collected resources are used to enhance the features and capacity of the spaceship.
+
+  As they reach each new planet, the team faces more complex enemies and discovers advanced spacecraft. Meanwhile, with the money accumulated from mining activities, they further strengthen their spaceships. Rapidly advancing technology makes their robot assistants smarter and more effective.
+
+  Finally, when they reach Neptune, the number of space debris decreases, and transportation becomes easier. However, enemy ships become stronger, and the team is forced to land on a planet to create a defense strategy and establish research facilities. At this point, the final battle with the aliens begins.
+
+  Captain Ahmet and his team engage in a great war against the aliens with their developed defense systems, reinforced spaceships, and intelligent robot assistants. After challenging battles, they defeat the aliens threatening the galaxy and restore peace to the galaxy.
+
+  In the second stage of the game, Captain Ahmet and his team navigate the galaxy map among planets. Moving towards undiscovered regions, they embark on new adventures. However, over time, they lose some planets, so the team must be quick and strategic. Striving to establish TUA's dominance in space, they explore new galaxies.
+</div>
+
+
 ## Features
 
-- **---:** 
-- **---:** 
-
+- **CraftBox:**
+- **Introduction of Old Space Vehicles and Collection of Parts:**
+- **Establishing Mineral Collection Areas on Planets:**
 
 ## Demo - not ready yet
 

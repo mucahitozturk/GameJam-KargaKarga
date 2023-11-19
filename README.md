@@ -123,6 +123,8 @@ pip3 install pygame
 | Dünya       | Dünya taşı    |
 
 
+![Gezegenler 2](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/6d10bdd6-6d12-416c-9a9b-a818e0863842)
+
 
 ### 3. CraftBox - not ready yet
 

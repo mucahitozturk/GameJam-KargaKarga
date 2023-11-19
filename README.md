@@ -1,10 +1,8 @@
 <div align="center">
   <h1 align="center">GameJam-KargaKarga</h1>
   <h3>TUA'da görevli bir grup personel uzayın derinliklerine keşif yolculuğuna çıkmıştır.</h3>
+</div>
 
-<br/>
-
-<br/>
 
 Lorem Ipsum.
 

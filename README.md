@@ -42,7 +42,11 @@ Oyunun ikinci aşamasında, Kaptan Ahmet ve ekibi galaksi haritasında gezegenle
 
 ## Demo - not ready yet
 
--
+
+![Gamejam (2)](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/c74576de-cccb-41dc-9d06-29aa991eb6b2)
+![REHBER](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/0a83beae-0d58-45be-bbd9-b27aadca3b9b)
+
+
 
 ## Tech Stack
 

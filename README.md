@@ -40,7 +40,7 @@ Oyunun ikinci aşamasında, Kaptan Ahmet ve ekibi galaksi haritasında gezegenle
 - **Introduction of Old Space Vehicles and Collection of Parts:**
 - **Establishing Mineral Collection Areas on Planets:**
 
-## Demo - not ready yet
+## Demo
 
 
 ![Gamejam (2)](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/c74576de-cccb-41dc-9d06-29aa991eb6b2)

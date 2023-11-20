@@ -46,6 +46,7 @@ Oyunun ikinci aşamasında, Kaptan Ahmet ve ekibi galaksi haritasında gezegenle
 ![Gamejam (2)](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/c74576de-cccb-41dc-9d06-29aa991eb6b2)
 ![HARİTA](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/fc9601c1-cc7d-4dad-9806-44990f0727c8)
 ![Gamejam (3)](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/1fca6438-3a84-402c-95ff-ba12f4e60356)
+![image](https://github.com/mucahitozturk/GameJam-KargaKarga/assets/32402864/82753708-b58f-4f26-bb6b-51e9763d8e90)
 
 
 
